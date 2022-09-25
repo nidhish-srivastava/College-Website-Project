@@ -1,6 +1,11 @@
 # EduFord-Website-Project
 
 Hello Everyone...
-This is my first website that i have built with my current knowledge of HTML and CSS.
-It is the main page of a college website,i havent made the links functional.
-Note-It is NOT RESPONSIVE,so open it in Computers only..
+
+Created a basic college website without any use of JavaScript but the UI portion is kind off good(at my level of knowledge of CSS)
+This website involves the use of HTML,CSS only.
+I haven't made the links functional.
+
+
+
+NOTE-IT IS NOT RESPONSIVE
