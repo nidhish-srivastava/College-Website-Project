@@ -8,4 +8,5 @@ I haven't made the links functional.
 
 
 
-NOTE-IT IS NOT RESPONSIVE
+NOTE- 1.IT IS NOT RESPONSIVE
+      2.The basic design is taken from a Youtube video,but then i gave this website a completely new touch
