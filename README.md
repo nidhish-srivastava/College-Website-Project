@@ -1,4 +1,4 @@
-# EduFord-Website-Project
+# College-Website-Project
 
 Hello Everyone...
 
